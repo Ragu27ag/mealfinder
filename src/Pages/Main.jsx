@@ -106,7 +106,7 @@ const Main = () => {
         &nbsp;&nbsp;&nbsp;
         <Button
           variant="contained"
-          sx={{ backgroundColor: "#ff914b" }}
+          sx={{ backgroundColor: "#ff914b", marginTop: "5px" }}
           onClick={() => getSearchResult(search)}
         >
           Search
